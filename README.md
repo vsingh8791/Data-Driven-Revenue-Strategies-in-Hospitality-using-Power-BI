@@ -1,0 +1,2 @@
+# Data-Driven-Revenue-Strategies-in-Hospitality-using-Power-BI
+Collaborated with stakeholders to define requirements and design solutions. Collected and modeled data using Power Query for efficient transformations. Built advanced metrics with DAX to support analysis. Developed interactive Power BI dashboards that provided actionable insights, driving informed business decisions and revenue growth.
